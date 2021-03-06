@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://newlyarchived.github.io/webframclan.01/sitemap.xml
+Sitemap: https://newlyarchived.github.io/webframeclan.01/sitemap.xml
