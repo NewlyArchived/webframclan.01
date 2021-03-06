@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://frenchspeak.cf/sitemap.xml
+Sitemap: https://newlyarchived.github.io/webframclan.01/sitemap.xml
